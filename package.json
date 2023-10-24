@@ -1,12 +1,12 @@
 {
-	"name": "@vdemedes/prettier-config",
-	"version": "2.0.1",
+	"name": "@ardasevinc/prettier-config",
+	"version": "0.1",
 	"description": "Shared Prettier config for my projects",
-	"repository": "vadimdemedes/prettier-config",
+	"repository": "ardasevinc/prettier-config",
 	"author": {
-		"name": "vdemedes",
-		"email": "vdemedes@gmail.com",
-		"url": "https://github.com/vadimdemedes"
+		"name": "Arda Sevinç",
+		"email": "arda@ardasevinc.com",
+		"url": "https://github.com/ardasevinc"
 	},
 	"scripts": {
 		"test": "true"

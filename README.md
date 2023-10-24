@@ -14,6 +14,6 @@ Add this to your `package.json`:
 
 ```json
 {
-	"prettier": "@vdemedes/prettier-config"
+	"prettier": "@ardasevinc/prettier-config"
 }
 ```
