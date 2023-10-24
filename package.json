@@ -19,5 +19,8 @@
 	"devDependencies": {
 		"prettier": "^3.0.3"
 	},
+    "engines": {
+        "npm": ">=9"
+    },
 	"prettier": "./index.json"
 }
