@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save-dev @vdemedes/prettier-config
+$ npm install --save-dev @ardasevinc/prettier-config
 ```
 
 ## Usage
