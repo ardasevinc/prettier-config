@@ -1,26 +1,26 @@
 {
-	"name": "@ardasevinc/prettier-config",
-	"version": "0.1.3",
-	"description": "Shared Prettier config for my projects",
-	"repository": "ardasevinc/prettier-config",
-	"author": {
-		"name": "Arda Sevinç",
-		"email": "arda@ardasevinc.com",
-		"url": "https://github.com/ardasevinc"
-	},
-	"scripts": {
-		"test": "true"
-	},
-	"main": "index.json",
-	"files": [
-		"index.json"
-	],
-	"license": "ISC",
-	"devDependencies": {
-		"prettier": "^3.0.3"
-	},
-    "engines": {
-        "npm": ">=9"
-    },
-	"prettier": "./index.json"
+  "name": "@ardasevinc/prettier-config",
+  "version": "0.1.4",
+  "description": "Shared Prettier config for my projects",
+  "repository": "ardasevinc/prettier-config",
+  "author": {
+    "name": "Arda Sevinç",
+    "email": "arda@ardasevinc.com",
+    "url": "https://github.com/ardasevinc"
+  },
+  "scripts": {
+    "test": "true"
+  },
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  },
+  "engines": {
+    "npm": ">=9"
+  },
+  "prettier": "./index.json"
 }
